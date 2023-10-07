@@ -1,0 +1,100 @@
+.form {
+    width: 370px;
+    height: 500px;
+    background: transparent;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgb(206, 202, 202);
+    margin-left: 500px;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url('D4.jpg');
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+    width: 230px;
+    height: 35px;
+    margin-left: 67px;
+    border-radius: 10px;
+    padding-top: 5px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.jk {
+    font-size: 18px;
+    margin-left: 67px;
+    font-family: 'Times New Roman';
+    margin-top: 15px;
+    font-weight: 100;
+    position: relative;
+    background: transparent;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    border-bottom: 1px solid orange;
+    color: white;
+    letter-spacing: 1px;
+    outline: none;
+}
+
+::placeholder {
+    color: white;
+}
+
+.agm {
+    font-size: 20px;
+    margin-left: 67px;
+    color: white;
+}
+
+.slt {
+    width: 160px;
+    margin-left: 10px;
+}
+
+.txt {
+    margin-top: -20px;
+    margin-left: 67px;
+    color: white;
+}
+
+.form .jns {
+    margin-left: 170px;
+    font-size: 17px;
+    color: white;
+}
+
+.form .jns1 {
+    color: white;
+}
+
+button {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 67px;
+    width: 230px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: 'Times New Roman';
+    background: blue;
+    color: white;
+    transition: 0.5s ease;
+    border: none;
+}
+
+button:hover {
+    background: orange;
+}
+
+button a {
+    text-decoration: none;
+    font-size: 21px;
+    color: white;
+}

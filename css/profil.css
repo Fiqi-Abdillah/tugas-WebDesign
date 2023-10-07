@@ -1,0 +1,49 @@
+body {
+    padding: 10px 10px;
+}
+
+.p1 {
+    background: black;
+    border-radius: 20px;
+    padding-left: 15px;
+}
+
+.p1 p {
+    float: right;
+    justify-content: center;
+    color: white;
+    padding-right: 500px;
+    padding-top: 50px;
+    font-size: 18px;
+}
+
+.p2 {
+    background: rgb(97, 97, 97);
+    margin-top: 20px;
+    border-radius: 20px;
+    padding-left: 15px;
+    padding-top: 4px;
+}
+
+.p2 p {
+    padding-right: 500px;
+    padding-top: 50px;
+    float: right;
+    font-size: 18px;
+}
+
+.p3 {
+    background: black;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding-left: 15px;
+}
+
+.p3 p {
+    float: right;
+    justify-content: center;
+    color: white;
+    padding-right: 500px;
+    padding-top: 50px;
+    font-size: 18px;
+}
